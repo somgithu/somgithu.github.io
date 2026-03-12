@@ -1,47 +1,50 @@
 ---
+title: About
 icon: fas fa-user
 order: 1
 ---
 
-## Somdatt Prajapat
+## About Me
 
-Nuclear physics researcher working in experimental nuclear spectroscopy and detector systems.
+I am **Somdatt Prajapat**, a researcher in **experimental nuclear physics** with interests in nuclear structure, detector systems, and gamma-ray spectroscopy.
 
-Currently a **Research Trainee at INMAS (DRDO)** working on radiation measurements and radiopharmaceutical metrology.
+My academic training includes a **postgraduate specialization in Nuclear Physics**, where I developed a strong background in nuclear reactions, radiation detection, and nuclear instrumentation.
 
 ---
 
-## Research Background
+## Research Experience
 
-During my master’s dissertation at **Inter-University Accelerator Centre (IUAC)** I worked with the **INGA HPGe Clover detector array** studying collective excitations and triaxial deformation in the **¹²⁷Cs nucleus**.
+During my master's dissertation at **Inter-University Accelerator Centre (IUAC), New Delhi**, I worked with the **INGA HPGe Clover detector array** to study collective excitations and triaxial deformation in the **¹²⁷Cs nucleus**.
 
 My work involved:
 
-- Gamma-ray spectroscopy analysis
-- Detector calibration
-- Automated peak fitting
-- Python based nuclear data analysis
-
----
-
-## Research Interests
-
-- Nuclear structure physics  
 - Gamma-ray spectroscopy  
-- HPGe and Clover detector systems  
-- Experimental nuclear reactions  
-- Detector development and instrumentation  
+- Detector calibration and efficiency analysis  
+- Automated spectral peak fitting  
+- Python-based data analysis for nuclear experiments  
 
 ---
 
 ## Current Work
 
-At **INMAS, DRDO** I work in radiation laboratories focusing on:
+I am currently working as a **Research Trainee at INMAS, DRDO**, where I work in radiation laboratories focusing on:
 
-- radiation detection
-- detector calibration
-- radiopharmaceutical measurements
-- nuclear instrumentation
+- Radiation measurements  
+- Detector calibration  
+- Radiopharmaceutical metrology  
+- Nuclear instrumentation and safety  
+
+---
+
+## Research Interests
+
+My primary research interests include:
+
+- Nuclear structure physics  
+- Gamma-ray spectroscopy  
+- HPGe and Clover detector systems  
+- Nuclear reactions and exotic nuclei  
+- Detector development and instrumentation  
 
 ---
 
